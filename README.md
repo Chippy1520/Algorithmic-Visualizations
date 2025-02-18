@@ -1,2 +1,2 @@
-# CPP-Coding-Journey
- Various Programs I made with CPP and SFML
+# Algorithmic-Visualizations
+ Various Visualization Programs I made with CPP and SFML
